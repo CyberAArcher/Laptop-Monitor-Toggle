@@ -3,11 +3,14 @@
 ▒█░░░ █▄▄█ █▀▀▄ █▀▀ █▄▄▀ ▒█▄▄█ █▄▄▀ █░░ █▀▀█ █▀▀ █▄▄▀ 
 ▒█▄▄█ ▄▄▄█ ▀▀▀░ ▀▀▀ ▀░▀▀ ▒█░▒█ ▀░▀▀ ▀▀▀ ▀░░▀ ▀▀▀ ▀░▀▀
 
+compile with "g++ changescreen.cpp -o changescreen.exe -mwindows" 
 
+Laptop Monitor Toggle 🖥️
+Welcome to the Laptop Monitor Toggle repository! This is a lightweight and easy-to-use application that adds a nifty feature for laptop users who also use a secondary monitor.
 
+🔹 Purpose: Sometimes you just don't want your laptop monitor on while you're working on a secondary monitor. Sure, there's win+p+enter, but wouldn't it be better with a single button click? That's exactly what this app does. With the click of a designated button, toggle your laptop monitor on or off seamlessly.
 
-
-That looks fancy up there though lmaoooo
+🔹🔹🔹🔹🔹That looks fancy up there though lmaoooo
 .
 ok so remember to compile this code (which is writter in C++ lol) with this command "g++ changescreen.cpp -o changescreen.exe -mwindows"
 .
